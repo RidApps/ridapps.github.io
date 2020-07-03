@@ -2,5 +2,9 @@
 	{
 		"question" : "What is RidApps ?",
 		"answer" : "RidApps was launched as a diversified cocktail of applications, to assist smartphone users in their lives with advanced tools. There are also apps for entertainment."
+	},
+	{
+		"question" : "What languages do you use to develop your applications?",
+		"answer" : "In general, we use flutter with DART"
 	}
 ]
